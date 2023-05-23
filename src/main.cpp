@@ -19,7 +19,7 @@ String ssid = "your_SSID";
 String password = "your_PASSWORD";
 String phone_ip = "192.168.1.1";
 String emergency_number = "999"; 
-String phone_passcode = "ledsrgood";
+String phone_passcode = "phonepass";
 
 // Some global timing stuff
 unsigned long previousTenthSecondMillis = 0L;
